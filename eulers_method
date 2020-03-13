@@ -1,6 +1,9 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
+
+# solution for dP/dt = 0.7 * P
+
 Dt = 0.1
 P_init = 10
 t_init = 0
